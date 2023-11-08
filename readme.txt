@@ -33,8 +33,7 @@ Libraries in use:
 2. Activate the [Gas Cost Calculator](https://www.calculator.io/gas-cost-calculator/ "Gas Cost Calculator Homepage") plugin through the "Plugins" menu in WordPress.
 
 == Usage ==
-* Add the shortcode `[ci_gas_cost_calculator]` to your page or post and configure default mortgage parameters.
-* If you are using widgets, just add the Gas Cost Calculator to the sidebar through the `Appearance -> Widgets -> Gas Cost Calculator` menu in WordPress.
+* Add the shortcode `[ci_gas_cost_calculator]` to your page, post or sidebar.
 * Add the following code: `<?php display_ci_gas_cost_calculator(); ?>` to your template where you would like the Gas Cost Calculator to appear.
 
 == Screenshots ==
