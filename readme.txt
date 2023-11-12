@@ -13,34 +13,35 @@ This free gasoline cost calculator evaluates the fuel cost of a journey using se
 
 This free gasoline cost calculator evaluates the fuel cost of a journey using several units of measurement depending on fuel efficiency, distance, and gas price.
 
-[Gas Cost Calculator Homepage](https://www.calculator.io/gas-cost-calculator/ "Gas Cost Calculator Homepage")
+[https://www.calculator.io/gas-cost-calculator/](https://www.calculator.io/gas-cost-calculator/)
 
-__Shortcode__
-
-Use the Gas Cost Calculator shortcode:
+__Gas Cost Calculator Shortcode__
 
 `[ci_gas_cost_calculator]`
-
-Libraries in use:
-1. https://mathjs.org/
-2. https://katex.org/
-3. https://github.com/aFarkas/lazysizes
-4. https://github.com/RobinHerbots/Inputmask
-5. https://air-datepicker.com/
-6. https://www.chartjs.org/
 
 == Installation ==
 
 1. Upload the /ci_gas_cost_calculator/ folder to the /wp-content/plugins/ directory.
 2. Activate the [Gas Cost Calculator](https://www.calculator.io/gas-cost-calculator/ "Gas Cost Calculator Homepage") plugin through the "Plugins" menu in WordPress.
 
-== Usage ==
+== Gas Cost Calculator Usage ==
+
 * Add the shortcode `[ci_gas_cost_calculator]` to your page, post or sidebar.
 * Add the following code: `<?php display_ci_gas_cost_calculator(); ?>` to your template where you would like the Gas Cost Calculator to appear.
 
 == Screenshots ==
+
 1. The Gas Cost Calculator Input Form.
 2. The Gas Cost Calculator Calculation Results.
+
+== Libraries used in Gas Cost Calculator ==
+
+1. https://mathjs.org/
+2. https://katex.org/
+3. https://github.com/aFarkas/lazysizes
+4. https://github.com/RobinHerbots/Inputmask
+5. https://air-datepicker.com/
+6. https://www.chartjs.org/
 
 == Changelog ==
 
