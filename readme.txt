@@ -1,4 +1,4 @@
-=== Gas Cost Calculator by Calculator.iO ===
+=== Gas Cost Calculator ===
 Contributors: calculatorio
 Tags: gas cost, gas cost calculator, fuel cost, calculate gas expenses, transportation expenses, vehicle fuel cost, fuel economy, trip expenses, gas consumption, travel budget
 Requires at least: 5.0
