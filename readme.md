@@ -1,4 +1,4 @@
-# Gas Cost Calculator WordPress Widget by [Calculator.iO](https://www.calculator.io/ "Calculator.iO Homepage")
+# Gas Cost Calculator Widget for WordPress
 
 This free gasoline cost calculator evaluates the fuel cost of a journey using several units of measurement depending on fuel efficiency, distance, and gas price.
 
