@@ -1,6 +1,6 @@
 <?php
 /*
-Plugin Name: Gas Cost Calculator by www.calculator.io
+Plugin Name: CI Gas cost calculator
 Plugin URI: https://www.calculator.io/gas-cost-calculator/
 Description: This free gasoline cost calculator evaluates the fuel cost of a journey using several units of measurement depending on fuel efficiency, distance, and gas price.
 Version: 1.0.0
