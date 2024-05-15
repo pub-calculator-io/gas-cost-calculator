@@ -3,7 +3,6 @@
 This free gasoline cost calculator evaluates the fuel cost of a journey using several units of measurement depending on fuel efficiency, distance, and gas price.
 
 ![Gas Cost Calculator Input Form](/assets/images/screenshot-1.png "Gas Cost Calculator Input Form")
-![Gas Cost Calculator Calculation Results](/assets/images/screenshot-2.png "Gas Cost Calculator Calculation Results")
 
 ## Installation
 

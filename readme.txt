@@ -24,7 +24,6 @@ Add the following code to your template where you would like the Gas Cost Calcul
 == Screenshots ==
 
 1. The Gas Cost Calculator Input Form.
-2. The Gas Cost Calculator Calculation Results.
 
 == Installation ==
 
